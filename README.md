@@ -43,5 +43,10 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/stark-ss/LeetCode-75/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/stark-ss/LeetCode-75/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/stark-ss/LeetCode-75/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
