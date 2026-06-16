@@ -33,6 +33,7 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 | [0151-reverse-words-in-a-string](https://github.com/stark-ss/LeetCode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/stark-ss/LeetCode-75/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stark-ss/LeetCode-75/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/stark-ss/LeetCode-75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/stark-ss/LeetCode-75/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/stark-ss/LeetCode-75/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -40,6 +41,7 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/stark-ss/LeetCode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stark-ss/LeetCode-75/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/stark-ss/LeetCode-75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/stark-ss/LeetCode-75/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/stark-ss/LeetCode-75/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/stark-ss/LeetCode-75/tree/master/1768-merge-strings-alternately) |
@@ -64,4 +66,8 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/stark-ss/LeetCode-75/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/stark-ss/LeetCode-75/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
