@@ -40,4 +40,8 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/stark-ss/LeetCode-75/tree/master/1071-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/stark-ss/LeetCode-75/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
