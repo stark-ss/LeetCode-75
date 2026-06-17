@@ -83,4 +83,8 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/stark-ss/LeetCode-75/tree/master/1679-max-number-of-k-sum-pairs) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/stark-ss/LeetCode-75/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
