@@ -59,6 +59,7 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 | [0283-move-zeroes](https://github.com/stark-ss/LeetCode-75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/stark-ss/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/stark-ss/LeetCode-75/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/stark-ss/LeetCode-75/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/stark-ss/LeetCode-75/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/stark-ss/LeetCode-75/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
@@ -87,4 +88,8 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/stark-ss/LeetCode-75/tree/master/0584-find-customer-referee) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/stark-ss/LeetCode-75/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
