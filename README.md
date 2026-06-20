@@ -112,4 +112,12 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/stark-ss/LeetCode-75/tree/master/1004-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/stark-ss/LeetCode-75/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/stark-ss/LeetCode-75/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
