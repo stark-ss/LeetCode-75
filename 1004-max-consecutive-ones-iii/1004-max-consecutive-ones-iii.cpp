@@ -1,8 +1,7 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-     queue<int> ind;
-    int q=k;
+    queue<int> ind;
     int n=nums.size();
     int c=0,j=0,p=0;
     for(int i=0;i<n;i++){
