@@ -93,6 +93,7 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/stark-ss/LeetCode-75/tree/master/0392-is-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/stark-ss/LeetCode-75/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -159,11 +160,13 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/stark-ss/LeetCode-75/tree/master/0437-path-sum-iii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/stark-ss/LeetCode-75/tree/master/0437-path-sum-iii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -173,5 +176,6 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/stark-ss/LeetCode-75/tree/master/0437-path-sum-iii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
