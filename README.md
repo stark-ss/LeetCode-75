@@ -159,12 +159,14 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/stark-ss/LeetCode-75/tree/master/0437-path-sum-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/stark-ss/LeetCode-75/tree/master/0437-path-sum-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -175,6 +177,7 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/stark-ss/LeetCode-75/tree/master/0437-path-sum-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/stark-ss/LeetCode-75/tree/master/1448-count-good-nodes-in-binary-tree) |
