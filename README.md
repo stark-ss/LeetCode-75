@@ -81,12 +81,14 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/stark-ss/LeetCode-75/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/stark-ss/LeetCode-75/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/stark-ss/LeetCode-75/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/stark-ss/LeetCode-75/tree/master/2542-maximum-subsequence-score) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/stark-ss/LeetCode-75/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/stark-ss/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/stark-ss/LeetCode-75/tree/master/0605-can-place-flowers) |
+| [2542-maximum-subsequence-score](https://github.com/stark-ss/LeetCode-75/tree/master/2542-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -115,6 +117,7 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 | [0215-kth-largest-element-in-an-array](https://github.com/stark-ss/LeetCode-75/tree/master/0215-kth-largest-element-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/stark-ss/LeetCode-75/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/stark-ss/LeetCode-75/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/stark-ss/LeetCode-75/tree/master/2542-maximum-subsequence-score) |
 ## Database
 |  |
 | ------- |
@@ -242,6 +245,7 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/stark-ss/LeetCode-75/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/stark-ss/LeetCode-75/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/stark-ss/LeetCode-75/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
