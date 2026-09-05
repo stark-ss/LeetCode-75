@@ -59,6 +59,7 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/stark-ss/LeetCode-75/tree/master/0062-unique-paths) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/stark-ss/LeetCode-75/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/stark-ss/LeetCode-75/tree/master/1137-n-th-tribonacci-number) |
 ## Array
@@ -109,6 +110,7 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/stark-ss/LeetCode-75/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/stark-ss/LeetCode-75/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/stark-ss/LeetCode-75/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/stark-ss/LeetCode-75/tree/master/0746-min-cost-climbing-stairs) |
@@ -290,4 +292,8 @@ I aim for optimal time and space complexity for each problem, documenting the ap
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/stark-ss/LeetCode-75/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/stark-ss/LeetCode-75/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
